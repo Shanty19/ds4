@@ -1,0 +1,15 @@
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\bin\Debug\net8.0\Lab9-2.exe
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\bin\Debug\net8.0\Lab9-2.deps.json
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\bin\Debug\net8.0\Lab9-2.runtimeconfig.json
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\bin\Debug\net8.0\Lab9-2.dll
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\bin\Debug\net8.0\Lab9-2.pdb
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\obj\Debug\net8.0\Lab9-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\obj\Debug\net8.0\Lab9-2.AssemblyInfoInputs.cache
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\obj\Debug\net8.0\Lab9-2.AssemblyInfo.cs
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\obj\Debug\net8.0\Lab9-2.csproj.CoreCompileInputs.cache
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\obj\Debug\net8.0\Lab9-2.sourcelink.json
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\obj\Debug\net8.0\Lab9-2.dll
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\obj\Debug\net8.0\refint\Lab9-2.dll
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\obj\Debug\net8.0\Lab9-2.pdb
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\obj\Debug\net8.0\Lab9-2.genruntimeconfig.cache
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Laboratorio9\Lab9-2\obj\Debug\net8.0\ref\Lab9-2.dll
