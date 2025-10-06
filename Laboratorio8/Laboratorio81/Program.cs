@@ -1,0 +1,47 @@
+﻿using System;
+
+class Persona
+{
+    //Campo de cada objeto persona que almacena su nombre
+        public string Nombre;
+    //campo de cada objeto Persona que almacena su edad
+        public int Edad;
+    //campo de cada objeto Persona que almacena si NIF
+
+    public string NIF;
+    void Cumpleaños() // Incrementa en uno de edad del objeto Persona que lo invoque
+    {
+        Edad++;
+    }
+
+    //Constructor de Persona
+    public Persona(string nombre, int edad, string nif)
+    {
+        Nombre = nombre;
+        Edad = edad;
+        NIF = nif;
+    }
+}
+
+class Trabajador : Persona
+{
+    //Campo de cada objeto Trabajador que almacena su salario
+    public int Sueldo;
+    //Constructor de Trabajador
+    public Trabajador(string nombre, int edad, string nif, int sueldo) : base(nombre, edad, nif)
+    {
+        Sueldo = sueldo;
+    }
+}
+class Program
+{
+    public static void Main()
+    {
+        Trabajador p = new Trabajador("Josan", 22, "77588260-Z", 100000);
+        Console.WriteLine("Nombre= " + p.Nombre);
+        Console.WriteLine("Edad= " + p.Edad);
+        Console.WriteLine("NIF= " + p.NIF);
+        Console.WriteLine("Sueldo= " + p.Sueldo);
+        Console.ReadKey();
+    }
+}

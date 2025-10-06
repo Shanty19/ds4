@@ -1,0 +1,15 @@
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\bin\Debug\net8.0\Laboratorio 102.exe
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\bin\Debug\net8.0\Laboratorio 102.deps.json
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\bin\Debug\net8.0\Laboratorio 102.runtimeconfig.json
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\bin\Debug\net8.0\Laboratorio 102.dll
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\bin\Debug\net8.0\Laboratorio 102.pdb
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\obj\Debug\net8.0\Laboratorio 102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\obj\Debug\net8.0\Laboratorio 102.AssemblyInfoInputs.cache
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\obj\Debug\net8.0\Laboratorio 102.AssemblyInfo.vb
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\obj\Debug\net8.0\Laboratorio 102.vbproj.CoreCompileInputs.cache
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\obj\Debug\net8.0\Laboratorio 102.sourcelink.json
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\obj\Debug\net8.0\Laboratorio 102.dll
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\obj\Debug\net8.0\refint\Laboratorio 102.dll
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\obj\Debug\net8.0\Laboratorio 102.pdb
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\obj\Debug\net8.0\Laboratorio 102.genruntimeconfig.cache
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio10\Laboratorio 102\obj\Debug\net8.0\ref\Laboratorio 102.dll
