@@ -1,0 +1,15 @@
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\obj\Debug\net8.0\Lab8-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\obj\Debug\net8.0\Lab8-1.AssemblyInfoInputs.cache
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\obj\Debug\net8.0\Lab8-1.AssemblyInfo.cs
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\obj\Debug\net8.0\Lab8-1.csproj.CoreCompileInputs.cache
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\obj\Debug\net8.0\Lab8-1.sourcelink.json
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\bin\Debug\net8.0\Lab8-1.exe
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\bin\Debug\net8.0\Lab8-1.deps.json
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\bin\Debug\net8.0\Lab8-1.runtimeconfig.json
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\bin\Debug\net8.0\Lab8-1.dll
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\bin\Debug\net8.0\Lab8-1.pdb
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\obj\Debug\net8.0\Lab8-1.dll
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\obj\Debug\net8.0\refint\Lab8-1.dll
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\obj\Debug\net8.0\Lab8-1.pdb
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\obj\Debug\net8.0\Lab8-1.genruntimeconfig.cache
+C:\Users\marit\OneDrive\Documentos\DESARROLLO4\ds4\Lab8-1\Lab8-1\obj\Debug\net8.0\ref\Lab8-1.dll
